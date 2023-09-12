@@ -1,4 +1,6 @@
 👨‍💻 Full Stack Developer | 📧 agusdelpercio@gmail.com |
+
+
 ¡Hola! Soy Agustin! un apasionado Desarrollador Full Stack, con una sólida base en JavaScript, PHP y electrónica.
 Mi enfoque lógico y eficaz me permite abordar proyectos de manera efectiva. 
 Mis habilidades abarcan desde metodologías ágiles y GIT hasta estructuras de datos, algoritmos y patrones de desarrollo, como el enfoque MVC.
