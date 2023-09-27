@@ -29,4 +29,3 @@ Inglés: Nivel A2 elemental - Básico
 ¡no dudes en contactarme! Estoy disponible para entrevistas y ansioso por compartir más acerca de mí.
 
 ¡Muchas gracias por tu atención!
-
