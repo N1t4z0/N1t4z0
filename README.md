@@ -11,6 +11,7 @@ Tengo una habilidad natural para liderar equipos, fomentar la colaboración y ad
 📚 Educación 📚
 
 🎓 Licenciatura en Sistemas | Universidad Nacional de Lanús | 2023 - Actualidad
+
 👨‍💻 Full Stack Web Developer | Henry Bootcamp | 2022-2023
 
 🔧 Tecnologías y Herramientas 🔧
