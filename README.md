@@ -12,8 +12,6 @@ Tengo una habilidad natural para liderar equipos, fomentar la colaboración y ad
 
 🎓 Licenciatura en Sistemas | Universidad Nacional de Lanús | 2023 - Actualidad
 
-👨‍💻 Full Stack Web Developer | Henry Bootcamp | 2021-2021
-
 🔧 Tecnologías y Herramientas 🔧
 
 Lenguajes: JavaScript, PHP
