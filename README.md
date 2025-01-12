@@ -27,4 +27,4 @@ Inglés: Nivel A2 elemental - Básico
 ¡Estoy emocionado por seguir creciendo y enfrentando nuevos desafíos! Si quieres conocer más sobre mi trayectoria o discutir cómo podría aportar valor a tu equipo, 
 ¡no dudes en contactarme! Estoy disponible para entrevistas y ansioso por compartir más acerca de mí.
 
-¡Muchas gracias por tu atención!
+¡Muchas gracias por tu atención! 
