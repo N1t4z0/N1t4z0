@@ -1,11 +1,11 @@
 👨‍💻 Full Stack Developer | 📧 agusdelpercio@gmail.com |
 
 
-¡Hola! Soy Agustin! un apasionado Desarrollador Full Stack, con una sólida base en JavaScript, PHP y electrónica.
+¡Hola! Soy Agustin! un apasionado Desarrollador Full Stack, con una sólida base en JavaScript, C#  y electrónica.
 Mi enfoque lógico y eficaz me permite abordar proyectos de manera efectiva. 
 Mis habilidades abarcan desde metodologías ágiles y GIT hasta estructuras de datos, algoritmos y patrones de desarrollo, como el enfoque MVC.
 
-Mi experiencia se extiende tanto en el desarrollo Front End como Back End, utilizando tecnologías como React, Node.Js, Express, Firebase, PHP, MongoDB / mongoose y Postgres / sequelize. 
+Mi experiencia se extiende tanto en el desarrollo Front End como Back End, utilizando tecnologías como C#, JS, / React, Node.Js,.NET Express, Firebase, MongoDB Postgres / mongoose, Prisma, sequelize. 
 Tengo una habilidad natural para liderar equipos, fomentar la colaboración y adoptar el aprendizaje ágil.
 
 📚 Educación 📚
@@ -14,8 +14,8 @@ Tengo una habilidad natural para liderar equipos, fomentar la colaboración y ad
 
 🔧 Tecnologías y Herramientas 🔧
 
-Lenguajes: JavaScript, PHP
-Frameworks: React, Redux, Express, Sequelize, Mongoose, Firebase, React-Native, Laravel, Vue.js
+Lenguajes: JavaScript, C#
+Frameworks: React, Redux, Express, Sequelize, Mongoose, Firebase, React-Native, .NET, NodeJS, Express
 Bases de Datos: Postgres, MongoDB, SQLite
 Herramientas: Git, Jira, Trello, Asana, Notion, MySQL, Slack
 Metodología: Agile - Scrum
